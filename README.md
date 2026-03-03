@@ -10,11 +10,11 @@
 
 ```bash
 # One-liner (klonsiz, to'g'ridan-to'g'ri ishlatish)
-bash <(curl -fsSL https://raw.githubusercontent.com/HackNow-uz/tool-base/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/HackNow-uz/HackNow-Attack-ToolSet/main/install.sh)
 
 # Yoki Clone qilib ishlatish
-git clone https://github.com/HackNow-uz/tool-base.git
-cd tool-base
+git clone https://github.com/HackNow-uz/HackNow-Attack-ToolSet.git
+cd HackNow-Attack-ToolSet
 
 # Main launcher — barcha yo'nalishlar
 sudo ./install.sh
